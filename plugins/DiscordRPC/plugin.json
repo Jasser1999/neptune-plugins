@@ -1,6 +1,6 @@
 {
   "name": "Discord RPC",
   "description": "Shows what song you're currently listening to on Discord.",
-  "author": "toonlink",
+  "author": "toonlink v2 test",
   "main": "./src/index.js"
 }
