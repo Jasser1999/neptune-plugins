@@ -3,7 +3,7 @@ import { getMediaURLFromID } from "@neptune/utils";
 import { AutoClient } from "discord-auto-rpc";
 
 const unloadables = [];
-const clientId = "1130698654987067493";
+const clientId = "1136463606406463518";
 
 const formatLongString = (s) => (s.length >= 128 ? s.slice(0, 125) + "..." : s);
 
